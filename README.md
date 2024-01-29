@@ -1,5 +1,5 @@
 ### Welcome :]
-Hi, I'm Blade! I'm a senior computer science student with a concentration in cybersecurity. If you're here, you'll find a lot of my for-fun repositories with some classwork mixed in. I try to make all of my work accessible for as many people as possible. If there's anything I can do to make my software or websites more accessible to you, please feel free to open an issue on the repo; I'd be happy to fix it up.
+Hi, I'm Blade! I'm a senior computer science student with a concentration in cybersecurity. If you're here, you'll find a lot of my for-fun repositories with some classwork mixed in. I try to make all of my work accessible for as many people as possible. If there's anything I can do to make my software or websites more accessible to you, please feel free to open an issue in the repo; I'd be happy to fix it up.
 
 My business site/resume is [here](https://bladetyr.github.io/) and my personal blog site is [here](https://bladetyr.neocities.org/).
 
