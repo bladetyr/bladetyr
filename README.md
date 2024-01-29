@@ -11,8 +11,8 @@ Raycasting! I'll link the repo here when I'm ready to make a commit.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ud-cis-discord&repo=sage&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
-<a href="https://github.com/ud-cis-discord/Sage">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ud-cis-discord&repo=sage&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/bladetyr/Blade-Blog">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bladetyr&repo=Blade-Blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## ⚙️ My GitHub Stats
