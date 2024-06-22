@@ -4,7 +4,7 @@ Hi, I'm Blade! I'm a senior computer science student with a concentration in cyb
 My business site/resume is [here](https://bladetyr.github.io/) and my personal blog site is [here](https://bladetyr.neocities.org/).
 
 ## 💡 I'm working on...
-My senior capstone project! Can't be posted here though.
+A break! I have just graduated and am in the process of moving. I'll hopefully be doing more fun dev stuff soon :D
 
 ## 📌 Important repos
 <a href="https://github.com/ud-cis-discord/Sage">
