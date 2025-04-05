@@ -1,5 +1,5 @@
 ### Welcome :]
-Hi, I'm Blade! I'm a (former) senior computer science student with a concentration in cybersecurity. I am now a current software engineer who makes a lot of scripts and data visualization tools. If you're here, you'll find a lot of my for-fun repositories with some old classwork mixed in. I try to make all of my work accessible for as many people as possible. If there's anything I can do to make my software or websites more accessible to you, please feel free to open an issue in the repo; I'd be happy to fix it up.
+Hi, I'm Blade! I'm a (former) senior computer science student with a concentration in cybersecurity. I also used to teach Python to college students. I am now a current software engineer who makes a lot of scripts and data visualization tools. If you're here, you'll find a lot of my for-fun repositories with some old classwork mixed in. I try to make all of my work accessible for as many people as possible. If there's anything I can do to make my software or websites more accessible to you, please feel free to open an issue in the repo; I'd be happy to fix it up.
 
 My business site/resume is [here](https://bladetyr.github.io/) and my personal blog site is [here](https://bladetyr.neocities.org/).
 
@@ -9,10 +9,6 @@ Refreshing myself on ReactJS! I want to make some portfolio sites for my friends
 ## 📌 Important repos
 <a href="https://github.com/ud-cis-discord/Sage">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ud-cis-discord&repo=sage&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-<a href="https://github.com/bladetyr/Blade-Blog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bladetyr&repo=Blade-Blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## ⚙️ My GitHub Stats
