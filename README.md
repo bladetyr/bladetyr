@@ -4,7 +4,7 @@ Hi, I'm Blade! I'm a (former) senior computer science student with a concentrati
 My business site/resume is [here](https://bladetyr.github.io/) and my personal blog site is [here](https://bladetyr.neocities.org/).
 
 ## 💡 I'm working on...
-Refreshing myself on ReactJS! I want to make some portfolio sites for my friends :] I've also been making some webscraping tooling for another friend of mine to download some old art they have stored online.
+Refreshing myself on ReactJS! I want to make some portfolio sites for my friends!! I've also been making some webscraping tooling for another friend of mine to download some old art they have stored online.
 
 ## 📌 Important repos
 <a href="https://github.com/ud-cis-discord/Sage">
